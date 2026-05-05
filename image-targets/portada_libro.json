@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 111,
+    "left": 0,
+    "width": 2453,
+    "height": 3270,
+    "isRotated": false,
+    "originalWidth": 2453,
+    "originalHeight": 3494
+  },
+  "imagePath": "image-targets/portada_libro_luminance.jpg",
+  "metadata": null,
+  "name": "portada_libro",
+  "resources": {
+    "originalImage": "portada_libro_original.jpg",
+    "croppedImage": "portada_libro_cropped.jpg",
+    "thumbnailImage": "portada_libro_thumbnail.jpg",
+    "luminanceImage": "portada_libro_luminance.jpg"
+  },
+  "created": 1777946904847,
+  "updated": 1777946904847
+}
